@@ -1,0 +1,68 @@
+## Apêndice: Tabela 2 (1/2) {.smaller .apendice-slide}
+
+<table class='grade apendice'>
+<tr><th>Grupo</th><th>Projeto</th><th>DI (R&#36;)</th><th>TMA (%)</th><th>N</th><th>VPL (R&#36;)</th><th>IL (%)</th><th>MTIR (%)</th><th>PBD (anos)</th><th>GA<sub>FT</sub> (%)</th></tr>
+<tr><td>A</td><td>1</td><td>1.000</td><td>10</td><td>4</td><td>39</td><td>3,91</td><td>11,06</td><td>2,90</td><td>15,57</td></tr>
+<tr><td>A</td><td>2</td><td>1.000</td><td>10</td><td>4</td><td>53</td><td>5,35</td><td>11,44</td><td>4,70</td><td>19,32</td></tr>
+<tr><td>B</td><td>3</td><td>1.000</td><td>12</td><td>4</td><td>58</td><td>5,80</td><td>13,59</td><td>4,60</td><td>20,06</td></tr>
+<tr><td>B</td><td>4</td><td>1.000</td><td>12</td><td>4</td><td>39</td><td>3,99</td><td>13,10</td><td>3,70</td><td>15,88</td></tr>
+<tr><td>C</td><td>5</td><td>22.000</td><td>12</td><td>6</td><td>3.860</td><td>17,55</td><td>15,06</td><td>5,30</td><td>33,58</td></tr>
+<tr><td>C</td><td>6</td><td>17.500</td><td>12</td><td>6</td><td>3.057</td><td>17,47</td><td>15,05</td><td>5,30</td><td>33,49</td></tr>
+<tr><td>D</td><td>7</td><td>10.000</td><td>12</td><td>5</td><td>814</td><td>8,14</td><td>13,77</td><td>5,10</td><td>22,41</td></tr>
+<tr><td>D</td><td>8</td><td>25.000</td><td>12</td><td>5</td><td>1.675</td><td>6,70</td><td>13,46</td><td>5,10</td><td>20,77</td></tr>
+<tr><td>E</td><td>9</td><td>300.000</td><td>9</td><td>5</td><td>−43.883</td><td>−14,43</td><td>5,66</td><td>20,00</td><td>8,29</td></tr>
+<tr class='base'><td>E</td><td>10</td><td>120.000</td><td>9</td><td>5</td><td>253.406</td><td>211,17</td><td>36,78</td><td>2,40</td><td>250,13</td></tr>
+<tr><td>F</td><td>11</td><td>68.000</td><td>10</td><td>10</td><td>84.385</td><td>124,10</td><td>19,24</td><td>4,20</td><td>156,74</td></tr>
+<tr class='base'><td>F</td><td>12</td><td>28.000</td><td>10</td><td>5</td><td>44.783</td><td>159,94</td><td>33,16</td><td>2,70</td><td>193,09</td></tr>
+<tr><td>G</td><td>13</td><td>5.000</td><td>8</td><td>4</td><td>701</td><td>14,03</td><td>11,60</td><td>4,60</td><td>28,13</td></tr>
+<tr><td>G</td><td>14</td><td>10.000</td><td>8</td><td>3</td><td>970</td><td>9,70</td><td>11,39</td><td>3,80</td><td>22,59</td></tr>
+<tr><td>G</td><td>15</td><td>10.000</td><td>8</td><td>4</td><td>3.248</td><td>32,49</td><td>15,87</td><td>3,80</td><td>48,29</td></tr>
+<tr><td>G</td><td>16</td><td>12.000</td><td>8</td><td>3</td><td>885</td><td>7,38</td><td>10,59</td><td>3,70</td><td>19,80</td></tr>
+<tr><td>G</td><td>17</td><td>8.000</td><td>8</td><td>2</td><td>2.699</td><td>33,74</td><td>24,90</td><td>2,50</td><td>48,71</td></tr>
+<tr><td>G</td><td>18</td><td>5.000</td><td>8</td><td>2</td><td>−216</td><td>−4,32</td><td>5,64</td><td>10,00</td><td>6,64</td></tr>
+<tr><td>G</td><td>19</td><td>6.000</td><td>8</td><td>4</td><td>2.153</td><td>35,89</td><td>16,60</td><td>3,90</td><td>52,31</td></tr>
+<tr><td>H</td><td>20</td><td>100</td><td>10</td><td>2</td><td>38</td><td>38,84</td><td>29,61</td><td>2,40</td><td>54,75</td></tr>
+<tr><td>H</td><td>21</td><td>80</td><td>10</td><td>2</td><td>32</td><td>41,01</td><td>30,62</td><td>2,40</td><td>57,17</td></tr>
+<tr><td>I</td><td>22</td><td>100</td><td>10</td><td>2</td><td>17</td><td>17,36</td><td>19,16</td><td>2,80</td><td>31,22</td></tr>
+<tr><td>I</td><td>23</td><td>100</td><td>10</td><td>2</td><td>16</td><td>16,74</td><td>18,85</td><td>2,40</td><td>29,81</td></tr>
+</table>
+
+[Em verde, os 5 projetos escolhidos pelo modelo proposto. Fonte: Abensur (2012), Tabela 2.]{.fonte}
+
+::: {.notes}
+Slide de apoio para as perguntas. Não apresento, só uso se alguém pedir um projeto específico.
+:::
+
+## Apêndice: Tabela 2 (2/2) {.smaller .apendice-slide}
+
+<table class='grade apendice'>
+<tr><th>Grupo</th><th>Projeto</th><th>DI (R&#36;)</th><th>TMA (%)</th><th>N</th><th>VPL (R&#36;)</th><th>IL (%)</th><th>MTIR (%)</th><th>PBD (anos)</th><th>GA<sub>FT</sub> (%)</th></tr>
+<tr><td>J</td><td>24</td><td>480</td><td>9</td><td>7</td><td>170</td><td>35,46</td><td>13,83</td><td>5,90</td><td>53,90</td></tr>
+<tr><td>J</td><td>25</td><td>620</td><td>9</td><td>7</td><td>92</td><td>14,97</td><td>11,19</td><td>6,80</td><td>30,59</td></tr>
+<tr><td>J</td><td>26</td><td>750</td><td>9</td><td>7</td><td>192</td><td>25,60</td><td>12,61</td><td>6,30</td><td>42,67</td></tr>
+<tr><td>K</td><td>27</td><td>10</td><td>10</td><td>2</td><td>21</td><td>214,05</td><td>94,94</td><td>0,60</td><td>248,97</td></tr>
+<tr class='base'><td>K</td><td>28</td><td>5</td><td>10</td><td>2</td><td>16</td><td>321,49</td><td>125,83</td><td>2,00</td><td>371,05</td></tr>
+<tr><td>K</td><td>29</td><td>5</td><td>10</td><td>2</td><td>11</td><td>238,84</td><td>102,48</td><td>2,00</td><td>278,52</td></tr>
+<tr><td>L</td><td>30</td><td>5.000</td><td>10</td><td>5</td><td>1.338</td><td>26,76</td><td>15,34</td><td>4,50</td><td>42,93</td></tr>
+<tr><td>L</td><td>31</td><td>8.000</td><td>10</td><td>10</td><td>1.794</td><td>22,43</td><td>12,35</td><td>6,90</td><td>40,26</td></tr>
+<tr><td>M</td><td>32</td><td>1.500</td><td>10</td><td>5</td><td>−610</td><td>−40,68</td><td>2,16</td><td>10,00</td><td>35,37</td></tr>
+<tr><td>M</td><td>33</td><td>1.500</td><td>10</td><td>5</td><td>766</td><td>51,07</td><td>19,46</td><td>5,20</td><td>72,63</td></tr>
+<tr><td>M</td><td>34</td><td>1.500</td><td>10</td><td>5</td><td>796</td><td>53,09</td><td>19,78</td><td>5,20</td><td>74,33</td></tr>
+<tr class='base'><td>M</td><td>35</td><td>1.500</td><td>10</td><td>5</td><td>779</td><td>51,95</td><td>19,60</td><td>4,40</td><td>72,06</td></tr>
+<tr><td>N</td><td>36</td><td>85.000</td><td>20</td><td>4</td><td>18.549</td><td>21,82</td><td>26,07</td><td>3,90</td><td>38,92</td></tr>
+<tr><td>N</td><td>37</td><td>150.000</td><td>20</td><td>4</td><td>51.921</td><td>34,61</td><td>29,26</td><td>3,60</td><td>53,51</td></tr>
+<tr><td>N</td><td>38</td><td>250.000</td><td>20</td><td>4</td><td>87.577</td><td>35,03</td><td>29,36</td><td>4,50</td><td>58,03</td></tr>
+<tr><td>N</td><td>39</td><td>378.000</td><td>20</td><td>4</td><td>19.337</td><td>5,12</td><td>21,51</td><td>4,10</td><td>18,52</td></tr>
+<tr><td>O</td><td>40</td><td>100.000</td><td>10</td><td>5</td><td>84.337</td><td>84,34</td><td>16,94</td><td>5,20</td><td>111,19</td></tr>
+<tr><td>O</td><td>41</td><td>70.000</td><td>10</td><td>5</td><td>52.891</td><td>75,56</td><td>16,37</td><td>5,50</td><td>101,13</td></tr>
+<tr><td>P</td><td>42</td><td>80.000</td><td>10</td><td>5</td><td>−9.339</td><td>−11,67</td><td>7,30</td><td>10,00</td><td>5,41</td></tr>
+<tr><td>P</td><td>43</td><td>20.000</td><td>15</td><td>7</td><td>2.399</td><td>12,00</td><td>16,88</td><td>6,50</td><td>29,07</td></tr>
+<tr><td>P</td><td>44</td><td>500</td><td>20</td><td>10</td><td>128</td><td>25,70</td><td>22,78</td><td>7,00</td><td>47,23</td></tr>
+<tr class='base'><td>P</td><td>45</td><td>200</td><td>20</td><td>10</td><td>219</td><td>109,62</td><td>29,22</td><td>3,82</td><td>145,39</td></tr>
+</table>
+
+[Em verde, os 5 projetos escolhidos pelo modelo proposto. Fonte: Abensur (2012), Tabela 2.]{.fonte}
+
+::: {.notes}
+Slide de apoio para as perguntas. Não apresento, só uso se alguém pedir um projeto específico.
+:::
